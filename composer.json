@@ -1,0 +1,17 @@
+{
+    "name": "cow/gallery",
+    "autoload": {
+        "psr-4": {
+            "Cow\\Gallery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ederlo Rodrigo de Oliveira",
+            "email": "rodrigo@tnb.studio"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    }
+}
